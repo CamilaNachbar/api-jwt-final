@@ -2,16 +2,6 @@ Necessária pré configuração das seguintes tecnologias:
 
 Apache Maven 3.5.0 ( ou superior)
 Java version: 1.8.0_144 ( ou superior)
-
-Projeto consiste nas seguintes requisições:
-2.1- Implemente o padrão jwt ou oauth para geração e validação de token de
-acesso 
-2.2. – O token deve expirar em 1 minuto. 
-2.3. - Criar uma rota de listagem de produtos, que só deve retorna a lista de
-produtos se receber um token válido.
-2.4. - Criar um seed (criação do banco de dados e carga de dados), pode ser um
-script ou utilizar um framework (Utilizado scrprit disponivel abaixo)
-
 Seguintes extensões foram utilizadas para implementação
 io.jsonwebtoken-jjwt-0.8.0
 org.springframework.boot - 1.5.7.RELEASE
