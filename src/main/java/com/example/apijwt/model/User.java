@@ -11,7 +11,9 @@ public class User {
 
     public String nickname;
     public String password;
-
+    public String name;
+    public float idade;
+    public String petname;
     public User() {}
 
     public User(String nickname, String password) {
