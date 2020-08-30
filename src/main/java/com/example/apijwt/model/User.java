@@ -14,6 +14,7 @@ public class User {
     public float idade;
     public String petname;
     public float account;
+    //alteracao para Lais
     public User() {}
 
     public User(String nickname, String password) {
