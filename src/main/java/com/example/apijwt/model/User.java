@@ -15,6 +15,7 @@ public class User {
     public String petname;
     public float account;
     //alteracao para Lais
+    //12345678
     public User() {}
 
     public User(String nickname, String password) {
