@@ -13,6 +13,7 @@ public class User {
     public String password;
     public String name;
     public float idade;
+    //dadasdasasdasd
     public String petname;
     public float account;
     //alteracao para Lais
