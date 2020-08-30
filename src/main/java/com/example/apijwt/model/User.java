@@ -13,6 +13,7 @@ public class User {
     public String password;
     public float idade;
     public String petname;
+    public float account;
     public User() {}
 
     public User(String nickname, String password) {
